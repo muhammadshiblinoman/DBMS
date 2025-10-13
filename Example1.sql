@@ -25,7 +25,7 @@ create table studentInfo(
     Address varchar(30),
     Mobile varchar(30)
 );
-insert into studentInfo(roll, name, dept, fatherName, Address, Mobile) values
+insert into studentInfo(roll, name, fatherName, Address, Mobile) values
 ("06543201", "Rahim", "Rajshahi", "Rajshahi", "01719201233"),
 ("06543202", "Karim", "Tareq", "Dhaka", "01719202020"),
 ("06543203", "Motin", "Rahman", "Khulna", "01719202678"),
